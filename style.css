@@ -560,6 +560,16 @@ ul {
     box-shadow: inset 0 0 50px rgba(11,37,69,0.2);
 }
 
+.profile-placeholder img {
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+}
+
 .experience-badge {
 
     position: absolute;
